@@ -1,2 +1,2 @@
 # data
-A data directory for storing backtesting data
+Generating industry data for analytics  
